@@ -1,5 +1,7 @@
 package com.raphafulldev.course.entities;
 
+import com.fasterxml.jackson.annotation.JsonFormat;
+import com.fasterxml.jackson.annotation.JsonIgnore;
 import jakarta.persistence.*;
 import org.springframework.web.bind.annotation.RequestMapping;
 
@@ -13,7 +15,9 @@ public class Order implements Serializable {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
-    private Instant moment;
+
+    @JsonFormat(shape = JsonFormat.Shape.STRING, pattern = "yyyy-MM-dd'T'HH:mm:ss'Z'", timezone = "GMT")//para garantir que o Instant seja
+    private Instant moment; //mostrado no Json no formato de String do Iso 8601.
 
     @ManyToOne
     @JoinColumn(name = "client_id")
