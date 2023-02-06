@@ -14,11 +14,11 @@ Workshop Springboot3 JPA é um projeto para estudo de Web Services com Spring Bo
 - Tratamento de exceções
 
 
-## A injeção de dependência foi feita por meio do padrão de projeto Factory
+## Foi implementado o padrão de projetos Web MVC, visando romper a comunicação direta entre a camada de vizualização da camada de modelo de negócio
 ![Mobile 1](https://github.com/raphafulldev/demo-dao-jdbc/blob/main/WhatsApp%20Image%202023-02-03%20at%2018.55.52.jpeg)
 
 ## Modelo Conceitual
-![Web 1](https://github.com/raphafulldev/demo-dao-jdbc/blob/main/WhatsApp%20Image%202023-02-03%20at%2019.02.55.jpeg)
+![Web 1](https://github.com/raphafulldev/workshop-springboot3-jpa/blob/main/WhatsApp%20Image%202023-02-05%20at%2021.27.43.jpeg)
 
 ## Modelo de implementação das consultas
 ![Web 1](https://github.com/raphafulldev/demo-dao-jdbc/blob/main/WhatsApp%20Image%202023-02-03%20at%2019.15.15.jpeg)
