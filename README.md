@@ -15,32 +15,32 @@ Workshop Springboot3 JPA é um projeto para estudo de Web Services com Spring Bo
 
 
 ## Foi implementado o padrão de projetos Web MVC, visando romper a comunicação direta entre a camada de vizualização da camada de modelo de negócio.
-![Mobile 1](https://github.com/raphafulldev/workshop-springboot3-jpa/blob/main/WhatsApp%20Image%202023-02-05%20at%2021.33.28.jpeg)
+![Mobile 1](https://github.com/raphafulldev/assets/blob/main/images/1.jpeg)
 
 ## Modelo Conceitual
-![Web 1](https://github.com/raphafulldev/workshop-springboot3-jpa/blob/main/WhatsApp%20Image%202023-02-05%20at%2021.27.43.jpeg)
+![Web 1](https://github.com/raphafulldev/assets/blob/main/images/2.jpeg)
 
 ## Passos para implementação das consultas:
 - Foi criado repositório do JPA (Java Persistence API)
 
-![Web 1](https://github.com/raphafulldev/workshop-springboot3-jpa/blob/main/WhatsApp%20Image%202023-02-05%20at%2022.01.53.jpeg)
-![Web 1](https://github.com/raphafulldev/workshop-springboot3-jpa/blob/main/WhatsApp%20Image%202023-02-05%20at%2022.15.11.jpeg)
+![Web 1](https://github.com/raphafulldev/assets/blob/main/images/3.jpeg)
+![Web 1](https://github.com/raphafulldev/assets/blob/main/images/4.jpeg)
 - Criada o service, que é a camada onde fica a lógica do negócio
 
-![Web 1](https://github.com/raphafulldev/workshop-springboot3-jpa/blob/main/WhatsApp%20Image%202023-02-05%20at%2022.19.14.jpeg)
-![Web 1](https://github.com/raphafulldev/workshop-springboot3-jpa/blob/main/WhatsApp%20Image%202023-02-05%20at%2022.20.52.jpeg)
+![Web 1](https://github.com/raphafulldev/assets/blob/main/images/5.jpeg)
+![Web 1](https://github.com/raphafulldev/assets/blob/main/images/6.jpeg)
 
 - Classe controller/resources
 
-![Web 1](https://github.com/raphafulldev/workshop-springboot3-jpa/blob/main/WhatsApp%20Image%202023-02-05%20at%2022.23.45.jpeg)
-![Web 1](https://github.com/raphafulldev/workshop-springboot3-jpa/blob/main/WhatsApp%20Image%202023-02-05%20at%2022.25.17.jpeg)
+![Web 1](https://github.com/raphafulldev/assets/blob/main/images/7.jpeg)
+![Web 1](https://github.com/raphafulldev/assets/blob/main/images/8.jpeg)
 
 ## Tratamento de erros personalizados
-![Web 1](https://github.com/raphafulldev/workshop-springboot3-jpa/blob/main/WhatsApp%20Image%202023-02-05%20at%2022.28.28.jpeg)
-![Web 1](https://github.com/raphafulldev/workshop-springboot3-jpa/blob/main/WhatsApp%20Image%202023-02-05%20at%2022.30.04.jpeg)
+![Web 1](https://github.com/raphafulldev/assets/blob/main/images/9.jpeg)
+![Web 1](https://github.com/raphafulldev/assets/blob/main/images/10.jpeg)
 
 ## Povoamento (seeding) feito por meio de uma classe de testes
-![Web 1](https://github.com/raphafulldev/workshop-springboot3-jpa/blob/main/WhatsApp%20Image%202023-02-05%20at%2022.34.36.jpeg)
+![Web 1](https://github.com/raphafulldev/assets/blob/main/images/11.jpeg)
 
 
 # Tecnologias utilizadas
