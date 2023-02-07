@@ -14,7 +14,7 @@ Workshop Springboot3 JPA é um projeto para estudo de Web Services com Spring Bo
 - Tratamento de exceções
 
 
-## Foi implementado o padrão de projetos Web MVC, visando romper a comunicação direta entre a camada de vizualização da camada de modelo de negócio.
+## Foi implementado o padrão de projetos REST, visando romper a comunicação direta entre a camada de vizualização da camada de modelo de negócio.
 ![Mobile 1](https://github.com/raphafulldev/assets/blob/main/images/1.jpeg)
 
 ## Modelo Conceitual
